@@ -3,7 +3,7 @@ This is a project that I made for my grade 11 assignment at SMKN 1 Purwosari usi
 
 ## And here are some images of the code results:
 ### Edit Page
-![](https://github.com/Aldoordl/CRUDPHP-PROJECT/assets/115862018/973db9ab-92da-40e2-8bd9-eb4927e63c0f)
+![](https://github.com/Aldoordl/CRUDPHP-PROJECT/assets/115862018/e8450c46-4ae3-47c9-b753-c65feb234824)
 
 ### Blank Page
 ![](https://github.com/Aldoordl/CRUDPHP-PROJECT/assets/115862018/cb7f0ab1-b33d-46a4-bd90-4a238205be1b)
